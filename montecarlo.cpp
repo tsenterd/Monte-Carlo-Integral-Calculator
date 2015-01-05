@@ -1,6 +1,8 @@
 /*==============================================================
-    Numerical integration of f(x) on [a,b]
-    method: Monte-Carlo method
+David Tsenter
+Jan 1,2015
+Numerical integration of f(x) on [a,b]
+method: Monte-Carlo method
 ----------------------------------------------------------------
 input:
     f   - a single argument real function (supplied by the user)
