@@ -66,6 +66,7 @@ int main()
 {
     const double pi = 3.1415926;
     double y;
+    //NOTE: THIS PROGRAM WILL USE SINX AS THE DEFAULT FUNCTION. CHANGE THE Y VARIABLE TO THE FUNCTION YOU NEED. This does not parse functions inputed by the user.,
     y = sin(x);
  //y = cos(x);
 //    y = x*x;
